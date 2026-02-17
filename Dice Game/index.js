@@ -16,5 +16,6 @@ else {
     document.querySelector("h1").innerHTML = "It's a Draw!";
 }
 
- document.querySelector("button").addEventListener("click", function() {
-    location.reload();});
+document.querySelector("button").addEventListener("click", function() {
+  location.reload();
+});
